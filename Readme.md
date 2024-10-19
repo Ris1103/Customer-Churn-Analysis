@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-This project focuses on predicting customer churn using various machine learning algorithms. Churn prediction is critical in customer retention efforts, as it helps companies identify customers who are at risk of leaving and take steps to retain them. The goal is to build a predictive model that can classify whether a customer will churn or not.
+This project aims to predict customer churn using various machine learning models. Churn prediction helps businesses retain customers by identifying those at risk of leaving. The project evaluates multiple models, compares their performance, and identifies the best model for predicting customer churn.
 
 ## Dataset
 
